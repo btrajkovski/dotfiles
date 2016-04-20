@@ -1,0 +1,11 @@
+<templateSet group="AngularJS ">
+  <template name="strict" value="(function() {&#10;    'use strict';&#10;    &#10;    $function$&#10;})();" description="IIFE with use-strict" toReformat="true" toShortenFQNames="true">
+    <variable name="function" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JS_EXPRESSION" value="false" />
+      <option name="JSX_HTML" value="false" />
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>

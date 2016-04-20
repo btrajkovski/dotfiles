@@ -1,0 +1,38 @@
+<application>
+  <component name="sonar-resources-application-component">
+    <option name="sonarResourcesBySonarServerName">
+      <map>
+        <entry key="local">
+          <value>
+            <list>
+              <Resource>
+                <option name="creationDate" value="1456592087000" />
+                <option name="date" value="1456592085000" />
+                <option name="description" value="" />
+                <option name="id" value="2" />
+                <option name="key" value="org.sonarqube:java-simple-sq-scanner" />
+                <option name="longName" value="Java :: Simple Project Not Compiled :: SonarQube Scanner" />
+                <option name="name" value="Java :: Simple Project Not Compiled :: SonarQube Scanner" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1456592374000" />
+                <option name="date" value="1456592372000" />
+                <option name="description" value="" />
+                <option name="id" value="6" />
+                <option name="key" value="com.btrajkovski.push.notifications.service.model" />
+                <option name="longName" value="Push Notifications Service" />
+                <option name="name" value="Push Notifications Service" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0" />
+              </Resource>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>

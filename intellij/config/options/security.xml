@@ -1,0 +1,23 @@
+<application>
+  <component name="PasswordDatabase">
+    <option name="PASSWORDS">
+      <array>
+        <array>
+          <option value="b2be241f824a65beb9d2afef0c308d3d743c92672b5555319610fe5f3d3d9358" />
+          <option value="cc3042163916bf9d28d8964634b7f4785900979c43ee3badb750ea9908651c02" />
+          <option value="cd02a4dcf7fd8c455e06d1122519af15784bf3c198df7691e982ab925957e7eb" />
+          <option value="efbe8b39aca8c89c6cb8df0d46488745acc4ff758ab3b178b8945ec42e4d679a" />
+        </array>
+        <array>
+          <option value="cbf17b8e0ba85911bc3abf1994552d2d" />
+          <option value="82dd2601c40ed8bda38ff8fe1d33c18d080c55755b6776451c3d020254d973d4" />
+          <option value="9cd3cff0f909924e0133ca309a58a69b" />
+          <option value="77e8e59760b36423523ec6f7379edab4" />
+        </array>
+      </array>
+    </option>
+  </component>
+  <component name="SSHConnectionSettings">
+    <successfulAuthentication user="git@bitbucket.org" method="publickey" />
+  </component>
+</application>

@@ -1,0 +1,403 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/development/polarcape/smartspace" />
+        <option value="$USER_HOME$/development/polarcape/smartspace/smartspace-time-frontend" />
+        <option value="$USER_HOME$/development/finki/diplomska/push-notifications-frontend" />
+        <option value="$USER_HOME$/development/finki/diplomska/push-notifications-service" />
+        <option value="$USER_HOME$/development/other/jhipster-examples/jhipster-sample-app" />
+        <option value="$USER_HOME$/development/other/competative-programming" />
+        <option value="$USER_HOME$/development/finki/NapredniAlgoritmi" />
+        <option value="$USER_HOME$/development/finki/diplomska/push-notifications-internship/push-server-backend" />
+        <option value="$USER_HOME$/development/finki/diplomska/push-notifications-internship/manager-app" />
+        <option value="$USER_HOME$/development/finki/diplomska/push-server" />
+        <option value="$USER_HOME$/development/polarcape/yodel/yodel-frontend" />
+        <option value="$USER_HOME$/development/finki/scrum-board" />
+        <option value="$USER_HOME$/development/polarcape/yodel/yodel-backend" />
+        <option value="$USER_HOME$/development/polarcape/websocket-demo-spring" />
+        <option value="$USER_HOME$/development/polarcape/smartspace-old" />
+        <option value="/mnt/share/Bojan/FINKI/veb_programiranje/lab/pizza-frontend" />
+        <option value="$USER_HOME$/development/polarcape/smartspace-monolith" />
+        <option value="$USER_HOME$/development/polarcape/smartspace/SmartSpacePlatform" />
+        <option value="$USER_HOME$/development/polarcape/smartspace/SmartSpaceAdmin" />
+        <option value="$USER_HOME$/development/polarcape/smartspace/SmartSpaceCore" />
+        <option value="$USER_HOME$/development/polarcape/SmartSpaceCore" />
+        <option value="$USER_HOME$/development/finki/diplomska/push-notifications/push-server-backend" />
+        <option value="/mnt/share/Bojan/FINKI/veb_programiranje/lab/pizza_spring_mvc" />
+        <option value="$USER_HOME$/development/finki/diplomska/push-notifications/manager-app" />
+        <option value="$USER_HOME$/development/finki/napreden_veb_dizajn/project/finki-ask-backend" />
+        <option value="$USER_HOME$/development/finki/napreden_veb_dizajn/project/FinkiAskWeb" />
+        <option value="$USER_HOME$/development/finki/napreden_veb_dizajn/project/finki-ask-frontend" />
+        <option value="$USER_HOME$/development/polarcape/websocket-demo-web" />
+        <option value="/mnt/share/Bojan/FINKI/veb_programiranje/lab/wp-angular-starter" />
+        <option value="/mnt/share/Bojan/FINKI/veb_programiranje/lab/pizza_spring_rest" />
+        <option value="$USER_HOME$/development/finki/napreden_veb_dizajn/sass" />
+        <option value="/mnt/share/Bojan/FINKI/напреден веб дизајн/lab/AWD_Lab06" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/development/polarcape/smartspace" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/development/polarcape/smartspace" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/development/finki/NapredniAlgoritmi">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.258" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1460882168615" />
+              <option name="buildTimestamp" value="1458169200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/development/finki/diplomska/push-notifications-frontend">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.258" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1460971313343" />
+              <option name="buildTimestamp" value="1458169200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/development/finki/diplomska/push-notifications-internship/manager-app">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.258" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1460821572071" />
+              <option name="buildTimestamp" value="1458169200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/development/finki/diplomska/push-notifications-internship/push-server-backend">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.258" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1460821765454" />
+              <option name="buildTimestamp" value="1458169200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/development/finki/diplomska/push-notifications-service">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.258" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1460971261553" />
+              <option name="buildTimestamp" value="1458169200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/development/finki/diplomska/push-notifications/manager-app">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.1821" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1456069631867" />
+              <option name="buildTimestamp" value="1453158000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/development/finki/diplomska/push-notifications/push-server-backend">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.1821" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1456407502483" />
+              <option name="buildTimestamp" value="1453158000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/development/finki/diplomska/push-server">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.258" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1460821549743" />
+              <option name="buildTimestamp" value="1458169200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/development/finki/napreden_veb_dizajn/project/FinkiAskWeb">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.1184" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1452985343761" />
+              <option name="buildTimestamp" value="1449442800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/development/finki/napreden_veb_dizajn/project/finki-ask-backend">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.1184" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1454451991977" />
+              <option name="buildTimestamp" value="1449442800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/development/finki/napreden_veb_dizajn/project/finki-ask-frontend">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.1184" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1452984365796" />
+              <option name="buildTimestamp" value="1449442800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/development/finki/napreden_veb_dizajn/sass">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.1184" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1450890231336" />
+              <option name="buildTimestamp" value="1449442800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/development/finki/scrum-board">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.258" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1460622909325" />
+              <option name="buildTimestamp" value="1458169200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/development/other/competative-programming">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.258" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1460892648971" />
+              <option name="buildTimestamp" value="1458169200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/development/other/jhipster-examples/jhipster-sample-app">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.258" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1460919461433" />
+              <option name="buildTimestamp" value="1458169200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/development/polarcape/SmartSpaceCore">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.1821" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1457094129939" />
+              <option name="buildTimestamp" value="1453158000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/development/polarcape/smartspace">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.258" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1460992233682" />
+              <option name="buildTimestamp" value="1458169200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/development/polarcape/smartspace-monolith">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.1821" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1457278703185" />
+              <option name="buildTimestamp" value="1453158000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/development/polarcape/smartspace-old">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.258" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1458763597394" />
+              <option name="buildTimestamp" value="1458169200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/development/polarcape/smartspace/SmartSpaceAdmin">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.1821" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1457278337297" />
+              <option name="buildTimestamp" value="1453158000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/development/polarcape/smartspace/SmartSpaceCore">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.1821" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1457094170088" />
+              <option name="buildTimestamp" value="1453158000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/development/polarcape/smartspace/SmartSpacePlatform">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.1821" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1457278687874" />
+              <option name="buildTimestamp" value="1453158000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/development/polarcape/smartspace/smartspace-time-frontend">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.258" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1460971352155" />
+              <option name="buildTimestamp" value="1458169200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/development/polarcape/websocket-demo-spring">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.258" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1458993087980" />
+              <option name="buildTimestamp" value="1458169200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/development/polarcape/websocket-demo-web">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.1184" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1452214422305" />
+              <option name="buildTimestamp" value="1449442800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/development/polarcape/yodel/yodel-backend">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.258" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1460574657648" />
+              <option name="buildTimestamp" value="1458169200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/development/polarcape/yodel/yodel-frontend">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.258" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1460632748512" />
+              <option name="buildTimestamp" value="1458169200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/mnt/share/Bojan/FINKI/veb_programiranje/lab/pizza-frontend">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.1821" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1458504488576" />
+              <option name="buildTimestamp" value="1453158000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/mnt/share/Bojan/FINKI/veb_programiranje/lab/pizza_spring_mvc">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.1821" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1456070562113" />
+              <option name="buildTimestamp" value="1453158000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/mnt/share/Bojan/FINKI/veb_programiranje/lab/pizza_spring_rest">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.1184" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1451842068050" />
+              <option name="buildTimestamp" value="1449442800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/mnt/share/Bojan/FINKI/veb_programiranje/lab/wp-angular-starter">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.1184" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1451842090199" />
+              <option name="buildTimestamp" value="1449442800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/mnt/share/Bojan/FINKI/напреден веб дизајн/lab/AWD_Lab06">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.382" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1449520782725" />
+              <option name="buildTimestamp" value="1447110000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/development/other/jhipster-examples" />
+  </component>
+</application>

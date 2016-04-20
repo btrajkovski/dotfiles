@@ -1,0 +1,46 @@
+<application>
+  <component name="FindRecents">
+    <findStrings>
+      <find>navbar</find>
+      <find>APP_SRC</find>
+      <find>System.config({</find>
+      <find>defaultJSExtensions</find>
+      <find>import.*\.ts</find>
+      <find>commonModulesInstall</find>
+      <find>installModules</find>
+      <find>firstInstall</find>
+      <find>logdebug</find>
+      <find>log</find>
+      <find>debug</find>
+      <find>logDebug</find>
+      <find>build.dev</find>
+      <find>appCon</find>
+      <find>modules.</find>
+      <find>asse</find>
+      <find>tomcat</find>
+      <find>Applicatio</find>
+      <find>j</find>
+      <find>jackson</find>
+      <find>gson</find>
+      <find>getApplica</find>
+      <find>appConstant</find>
+      <find>build.sass</find>
+      <find>smartspace.admin.module.regiser.sso.uri</find>
+      <find>this.module.url</find>
+      <find>sma</find>
+      <find>smartspace.prope</find>
+      <find>html</find>
+      <find>asciidoc</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>$scope.isBlinking</replace>
+      <replace>$rootScope.totalNotificationCount</replace>
+      <replace>$scope.missionNotificationsCount</replace>
+      <replace>$scope.allContactNotificationsCount</replace>
+      <replace>User</replace>
+      <replace>List</replace>
+      <replace>'</replace>
+      <replace>application</replace>
+    </replaceStrings>
+  </component>
+</application>

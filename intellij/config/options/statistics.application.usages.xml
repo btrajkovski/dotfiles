@@ -1,0 +1,307 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="JSDebugConfig">
+      <project id="finki-ask-frontend" values="browser-default.preferredBrowser-null.no_mappings" collectionTime="1452994823232" />
+      <project id="manager-app" values="browser-default.preferredBrowser-null.no_mappings" collectionTime="1460821765154" />
+      <project id="angular-starter" values="browser-default.preferredBrowser-null.no_mappings" collectionTime="1458504512852" />
+      <project id="push-notifications-frontend" values="browser-default.preferredBrowser-null.no_mappings" collectionTime="1460971351744" />
+      <project id="yodel-frontend" values="browser-default.preferredBrowser-null.no_mappings,browser-default.preferredBrowser-null.no_mappings" collectionTime="1460646797125" />
+      <project id="AWD_Lab06" values="browser-default.preferredBrowser-null.no_mappings" collectionTime="1449520804446" />
+    </group>
+    <group name="JavaScript versions">
+      <project id="FinkiAskWeb" values="ECMAScript 5.1" collectionTime="1452994814101" />
+      <project id="SmartSpacePlatform" values="ECMAScript 5.1" collectionTime="1457278703183" />
+      <project id="SmartSpaceAdmin" values="ECMAScript 5.1" collectionTime="1457278467240" />
+      <project id="websocket-demo-web" values="ECMAScript 5.1" collectionTime="1452220203115" />
+      <project id="smartspace-time-frontend" values="ECMAScript 5.1" collectionTime="1460992233681" />
+      <project id="ask" values="ECMAScript 5.1" collectionTime="1454452088784" />
+      <project id="manager-app" values="ECMAScript 5.1" collectionTime="1460821765153" />
+      <project id="angular-starter" values="ECMAScript 5.1" collectionTime="1458504512783" />
+      <project id="finki-ask-frontend" values="ECMAScript 5.1" collectionTime="1452994823232" />
+      <project id="spring-mvc-starter" values="ECMAScript 5.1" collectionTime="1456088491136" />
+      <project id="push-notifications-service" values="ECMAScript 5.1" collectionTime="1460971313292" />
+      <project id="yodel-backend" values="ECMAScript 5.1" collectionTime="1460574673577" />
+      <project id="push-app" values="ECMAScript 5.1" collectionTime="1460821810209" />
+      <project id="AWD_Lab06" values="ECMAScript 5.1" collectionTime="1449520804356" />
+      <project id="sass" values="ECMAScript 5.1" collectionTime="1450890361191" />
+      <project id="scrum-board" values="ECMAScript 5.1" collectionTime="1460622952098" />
+      <project id="smartspace" values="ECMAScript 5.1" collectionTime="1460822001371" />
+      <project id="websocket-stomp-springMVC" values="ECMAScript 5.1" collectionTime="1458993114359" />
+      <project id="SmartSpaceCore" values="ECMAScript 5.1" collectionTime="1457101877384" />
+      <project id="push-server" values="ECMAScript 5.1" collectionTime="1460821571670" />
+      <project id="push-notifications-frontend" values="ECMAScript 5.1" collectionTime="1460971351744" />
+      <project id="yodel-frontend" values="ECMAScript 5.1" collectionTime="1460646797056" />
+    </group>
+    <group name="module type">
+      <project id="FinkiAskWeb" values="JAVA_MODULE" collectionTime="1452994814059" />
+      <project id="SmartSpacePlatform" values="JAVA_MODULE" collectionTime="1457278703149" />
+      <project id="SmartSpaceAdmin" values="JAVA_MODULE" collectionTime="1457278466868" />
+      <project id="websocket-demo-web" values="WEB_MODULE" collectionTime="1452220203071" />
+      <project id="smartspace-time-frontend" values="JAVA_MODULE" collectionTime="1460992233338" />
+      <project id="ask" values="JAVA_MODULE" collectionTime="1454452088457" />
+      <project id="angular-starter" values="JAVA_MODULE" collectionTime="1458504512488" />
+      <project id="finki-ask-frontend" values="WEB_MODULE" collectionTime="1452994823221" />
+      <project id="spring-mvc-starter" values="JAVA_MODULE" collectionTime="1456088491097" />
+      <project id="push-notifications-service" values="JAVA_MODULE" collectionTime="1460971312267" />
+      <project id="yodel-backend" values="JAVA_MODULE" collectionTime="1460574673460" />
+      <project id="push-app" values="JAVA_MODULE" collectionTime="1460821810170" />
+      <project id="AWD_Lab06" values="JAVA_MODULE" collectionTime="1449520804022" />
+      <project id="sass" values="JAVA_MODULE" collectionTime="1450890360903" />
+      <project id="scrum-board" values="JAVA_MODULE" collectionTime="1460622951623" />
+      <project id="smartspace" values="JAVA_MODULE" collectionTime="1460822001306" />
+      <project id="websocket-stomp-springMVC" values="JAVA_MODULE" collectionTime="1458993113842" />
+      <project id="push-server" values="JAVA_MODULE" collectionTime="1460821571611" />
+      <project id="push-notifications-frontend" values="JAVA_MODULE" collectionTime="1460971351707" />
+      <project id="yodel-frontend" values="JAVA_MODULE" collectionTime="1460646796840" />
+    </group>
+    <group name="vcs">
+      <project id="FinkiAskWeb" values="Git" collectionTime="1452994814059" />
+      <project id="SmartSpaceAdmin" values="Git" collectionTime="1457278466867" />
+      <project id="websocket-demo-web" values="Git" collectionTime="1452220203071" />
+      <project id="smartspace-time-frontend" values="Git" collectionTime="1460992233338" />
+      <project id="ask" values="Git" collectionTime="1454452088457" />
+      <project id="manager-app" values="Git" collectionTime="1460821765130" />
+      <project id="scrum-board" values="Git" collectionTime="1460622951622" />
+      <project id="finki-ask-frontend" values="Git" collectionTime="1452994823221" />
+      <project id="push-notifications-service" values="Git" collectionTime="1460971312266" />
+      <project id="yodel-backend" values="Git" collectionTime="1460574673460" />
+      <project id="push-app" values="Git" collectionTime="1460821810170" />
+      <project id="smartspace" values="Git" collectionTime="1460822001306" />
+      <project id="websocket-stomp-springMVC" values="Git" collectionTime="1458993113841" />
+      <project id="SmartSpaceCore" values="Git" collectionTime="1457101877374" />
+      <project id="push-notifications-frontend" values="Git" collectionTime="1460971351707" />
+      <project id="yodel-frontend" values="Git" collectionTime="1460646796839" />
+    </group>
+    <group name="Spring Boot">
+      <project id="websocket-stomp-springMVC" values="application.properties,RunConfigsPerProject_1" collectionTime="1458993115816" />
+      <project id="push-notifications-service" values="application.yml,RunConfigsPerProject_1" collectionTime="1460971313341" />
+      <project id="spring-mvc-starter" values="RunConfigsPerProject_0" collectionTime="1456088491143" />
+      <project id="scrum-board" values="RunConfigsPerProject_1,application.yml" collectionTime="1460622952114" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="websocket-stomp-springMVC" values="JBossConfiguration.Local" collectionTime="1458993113843" />
+      <project id="manager-app" values="JavascriptDebugType" collectionTime="1460821765130" />
+      <project id="yodel-backend" values="JBossConfiguration.Local" collectionTime="1460574673460" />
+      <project id="push-notifications-service" values="SpringBootApplicationConfigurationType" collectionTime="1460971312268" />
+      <project id="spring-mvc-starter" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local,JBossConfiguration.Local" collectionTime="1456088491097" />
+      <project id="smartspace" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1460822001306" />
+      <project id="push-app" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local,JBossConfiguration.Local" collectionTime="1460821810170" />
+      <project id="push-notifications-frontend" values="JavascriptDebugType" collectionTime="1460971351707" />
+      <project id="yodel-frontend" values="JavascriptDebugType,js.build_tools.grunt" collectionTime="1460646796840" />
+      <project id="push-server" values="JBossConfiguration.Local,#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1460821571611" />
+      <project id="ask" values="JBossConfiguration.Local,#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1454452088458" />
+      <project id="scrum-board" values="SpringBootApplicationConfigurationType" collectionTime="1460622951624" />
+    </group>
+    <group name="run-configuration-type-temp">
+      <project id="finki-ask-frontend" values="JavascriptDebugType" collectionTime="1452994823221" />
+      <project id="angular-starter" values="JavascriptDebugType" collectionTime="1458504512489" />
+      <project id="websocket-stomp-springMVC" values="SpringBootApplicationConfigurationType" collectionTime="1458993113843" />
+      <project id="yodel-frontend" values="JavascriptDebugType" collectionTime="1460646796841" />
+      <project id="AWD_Lab06" values="JavascriptDebugType" collectionTime="1449520804023" />
+    </group>
+    <group name="file-type">
+      <project id="FinkiAskWeb" values="Git file,JavaScript,HTML,PLAIN_TEXT,JSON,Images,UNKNOWN,XML,CSS,IDEA_MODULE" collectionTime="1452994814092" />
+      <project id="SmartSpacePlatform" values="Git file,PLAIN_TEXT,UNKNOWN,ARCHIVE,IDEA_MODULE,XML" collectionTime="1457278703182" />
+      <project id="SmartSpaceAdmin" values="PLAIN_TEXT,ARCHIVE,JAVA,UNKNOWN,XML,Properties,Git file,IDEA_MODULE" collectionTime="1457278467004" />
+      <project id="websocket-demo-web" values="HTML,UNKNOWN,Properties,IDEA_MODULE,YAML,ARCHIVE,SourceMap,JSON,PLAIN_TEXT,XML,TypeScript,Images,JavaScript,CoffeeScript,CSS,Native,Git file,Less" collectionTime="1452220203109" />
+      <project id="smartspace-time-frontend" values="JSHint,TypeScript,XML,YAML,TSLint,SCSS,JSON,PLAIN_TEXT,Git file,JavaScript,HTML,CSS" collectionTime="1460992233353" />
+      <project id="ask" values="Properties,Git file,IDEA_MODULE,Images,CSS,JavaScript,UNKNOWN,XML,Eclipse,JSP,PLAIN_TEXT,JSON,JAVA,HTML" collectionTime="1454452088528" />
+      <project id="angular-starter" values="Git file,JavaScript,IDEA_MODULE,CSS,UNKNOWN,PLAIN_TEXT,JSON,HTML,XML" collectionTime="1458504512609" />
+      <project id="finki-ask-frontend" values="UNKNOWN,HTML,Images,XML,IDEA_MODULE,CSS,Git file,JavaScript,SourceMap,PLAIN_TEXT" collectionTime="1452994823230" />
+      <project id="spring-mvc-starter" values="PLAIN_TEXT,XML,JSP,UNKNOWN,JAVA,Properties,Git file,IDEA_MODULE" collectionTime="1456088491121" />
+      <project id="push-notifications-service" values="Git file,SQL,PLAIN_TEXT,IDEA_MODULE,HTML,JAVA,ARCHIVE,YAML,XML,Properties" collectionTime="1460971312388" />
+      <project id="yodel-backend" values="HTML,SQL,XML,IDEA_MODULE,YAML,JAVA,Git file,PLAIN_TEXT,Properties,Images,UNKNOWN" collectionTime="1460574673524" />
+      <project id="push-app" values="JAVA,Git file,PLAIN_TEXT,ARCHIVE,IDEA_MODULE,XML,Properties,UNKNOWN,JSP" collectionTime="1460821810196" />
+      <project id="AWD_Lab06" values="IDEA_MODULE,Images,ARCHIVE,UNKNOWN,CSS,SourceMap,JavaScript,HTML,XML,PLAIN_TEXT,Native" collectionTime="1449520804100" />
+      <project id="sass" values="ARCHIVE,SCSS,Images,PLAIN_TEXT,CSS,IDEA_MODULE,HTML,XML,UNKNOWN,Native,SourceMap" collectionTime="1450890360955" />
+      <project id="scrum-board" values="SQL,HTML,Properties,YAML,XML,JAVA,Git file,IDEA_MODULE" collectionTime="1460622951744" />
+      <project id="smartspace" values="SQL,JAVA,PLAIN_TEXT,XHTML,CSS,IDEA_MODULE,Git file,Images,Properties,JSON,HTML,XML" collectionTime="1460822001337" />
+      <project id="websocket-stomp-springMVC" values="Git file,HTML,XML,Properties,JAVA,IDEA_MODULE" collectionTime="1458993113947" />
+      <project id="SmartSpaceCore" values="UNKNOWN" collectionTime="1457101877381" />
+      <project id="push-server" values="XML,JSP,IDEA_MODULE,ARCHIVE" collectionTime="1460821571666" />
+      <project id="push-notifications-frontend" values="UNKNOWN,HTML,Images,Git file,PLAIN_TEXT,ESLint,JavaScript,JSHint,Properties,JSON,CSS" collectionTime="1460971351740" />
+      <project id="yodel-frontend" values="JSON,JavaScript,Git file,SourceMap,UNKNOWN,Images,PLAIN_TEXT,JSHint,CSS,XML,HTML,YAML,SCSS" collectionTime="1460646796858" />
+    </group>
+    <group name="jdbc-datasource">
+      <project id="push-notifications-service" values="MySQL/5.6.28-0ubuntu0.15.10.1" collectionTime="1460971313289" />
+    </group>
+    <group name="javaScript Frameworks">
+      <project id="yodel-frontend" values="node_modules" collectionTime="1460646797056" />
+    </group>
+    <group name="Spring MVC">
+      <project id="websocket-stomp-springMVC" values="fileset_webXml,viewResolver_UrlBasedViewResolver_.jsp,fileset_webXml,viewResolvers_1,mvcModelsInProject_1" collectionTime="1458993115807" />
+      <project id="yodel-backend" values="fileset_webXml,mvcModelsInProject_1,viewResolver_thymeleaf,viewResolvers_2,viewResolver_thymeleaf,fileset_webXml" collectionTime="1460574677324" />
+      <project id="push-app" values="mvcModelsInProject_0" collectionTime="1460821810211" />
+      <project id="push-notifications-service" values="mvcModelsInProject_0" collectionTime="1460971313332" />
+      <project id="smartspace" values="viewResolvers_0,fileset_webXml,mvcModelsInProject_3,fileset_webXml,viewResolvers_0,fileset_webXml,fileset_webXml,fileset_webXml,fileset_webXml,fileset_webXml,viewResolvers_0" collectionTime="1460822001412" />
+      <project id="push-server" values="fileset_webXml,mvcModelsInProject_1,viewResolvers_0,fileset_webXml" collectionTime="1460821571778" />
+      <project id="scrum-board" values="mvcModelsInProject_0" collectionTime="1460622952105" />
+    </group>
+    <group name="jdbc-driver">
+      <project id="push-notifications-service" values="com.mysql.jdbc.Driver" collectionTime="1460971313289" />
+    </group>
+    <group name="spring">
+      <project id="websocket-stomp-springMVC" values="xmlNS_www.springframework.org/schema/context,fileset_autodetect_com.intellij.spring.boot.model.SpringBootFileSet,xmlNS_www.springframework.org/schema/websocket,fileset_autodetect_com.intellij.spring.web.config.webXml.XmlServletFileSet,fileset_autodetect_com.intellij.spring.web.config.webXml.XmlServletFileSet,fileset_configFiles5,xmlNS_www.springframework.org/schema/websocket,fileset_xmlContext" collectionTime="1458993114445" />
+      <project id="SmartSpaceAdmin" values="xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/tx,fileset_xmlContext,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/context,fileset_configFiles5" collectionTime="1457278467243" />
+      <project id="push-app" values="fileset_autodetect_NONE,fileset_xmlContext,fileset_configFiles5,xmlNS_www.springframework.org/schema/tx" collectionTime="1460821810211" />
+      <project id="push-notifications-service" values="fileset_autodetect_com.intellij.spring.boot.model.SpringBootFileSet" collectionTime="1460971313318" />
+      <project id="spring-mvc-starter" values="fileset_configFiles5,xmlNS_www.springframework.org/schema/task,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/data/jpa,fileset_xmlContext,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/p,fileset_configFiles5,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/util,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/data/jpa,fileset_configFiles5,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/context" collectionTime="1456088491138" />
+      <project id="smartspace" values="xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/tx,fileset_configFiles5,fileset_configFiles5,fileset_autodetect_com.intellij.spring.web.config.webXml.XmlServletFileSet,fileset_autodetect_NONE,fileset_autodetect_com.intellij.spring.web.config.webXml.XmlServletFileSet,fileset_configFiles5,xmlNS_www.springframework.org/schema/context,fileset_autodetect_com.intellij.spring.web.config.webXml.XmlServletFileSet,fileset_xmlContext,fileset_xmlContext,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/mvc,fileset_autodetect_com.intellij.spring.web.config.webXml.XmlServletFileSet,xmlNS_www.springframework.org/schema/context,fileset_autodetect_com.intellij.spring.web.config.webXml.XmlServletFileSet,xmlNS_www.springframework.org/schema/tx,fileset_configFiles5,fileset_xmlContext,fileset_autodetect_com.intellij.spring.web.config.webXml.XmlServletFileSet,fileset_autodetect_com.intellij.spring.web.config.webXml.XmlServletFileSet" collectionTime="1460822001372" />
+      <project id="yodel-backend" values="xmlNS_www.springframework.org/schema/util,fileset_configFiles5,fileset_xmlContext,fileset_autodetect_com.intellij.spring.web.config.webXml.XmlServletFileSet,fileset_autodetect_NONE,fileset_autodetect_NONE,xmlNS_www.springframework.org/schema/util,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/tx,fileset_autodetect_NONE,fileset_configFiles5,xmlNS_www.springframework.org/schema/context,fileset_autodetect_com.intellij.spring.web.config.webXml.XmlServletFileSet,fileset_annotationContext,fileset_configFiles5,fileset_xmlContext,xmlNS_www.springframework.org/schema/context,fileset_configFiles5,fileset_xmlContext,fileset_autodetect_NONE" collectionTime="1460574674217" />
+      <project id="push-server" values="fileset_autodetect_com.intellij.spring.web.config.webXml.XmlServletFileSet,fileset_autodetect_com.intellij.spring.web.config.webXml.XmlServletFileSet" collectionTime="1460821571684" />
+      <project id="ask" values="xmlNS_www.springframework.org/schema/data/jpa,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/jee,xmlNS_www.springframework.org/schema/oxm,xmlNS_www.springframework.org/schema/tx,fileset_xmlContext,xmlNS_www.springframework.org/schema/jdbc,xmlNS_www.springframework.org/schema/context,fileset_configFiles5,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/oxm,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/context" collectionTime="1454452088788" />
+    </group>
+    <group name="frameworks">
+      <project id="websocket-stomp-springMVC" values="Spring,web" collectionTime="1458993113841" />
+      <project id="yodel-backend" values="Spring,web" collectionTime="1460574673460" />
+      <project id="push-notifications-service" values="web,Spring" collectionTime="1460971312267" />
+      <project id="spring-mvc-starter" values="web,Spring" collectionTime="1456088491097" />
+      <project id="push-app" values="Spring,web" collectionTime="1460821810170" />
+      <project id="ask" values="Spring,web" collectionTime="1454452088457" />
+      <project id="SmartSpaceAdmin" values="web,Spring" collectionTime="1457278466867" />
+      <project id="push-server" values="Spring,web" collectionTime="1460821571611" />
+      <project id="smartspace" values="Spring,web" collectionTime="1460822001306" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="FinkiAskWeb" values="Project,Project" collectionTime="1452994814101" />
+      <project id="SmartSpacePlatform" values="Project,Project" collectionTime="1457278703183" />
+      <project id="SmartSpaceAdmin" values="Project,Project" collectionTime="1457278467240" />
+      <project id="websocket-demo-web" values="Project,Project" collectionTime="1452220203115" />
+      <project id="smartspace-time-frontend" values="Project,Project" collectionTime="1460992233681" />
+      <project id="ask" values="Project,Project" collectionTime="1454452088784" />
+      <project id="manager-app" values="Project,Project" collectionTime="1460821765153" />
+      <project id="angular-starter" values="Project,Project" collectionTime="1458504512782" />
+      <project id="sass" values="Project,Project" collectionTime="1450890361191" />
+      <project id="spring-mvc-starter" values="Project,Project" collectionTime="1456088491136" />
+      <project id="push-notifications-service" values="Project,Project" collectionTime="1460971313291" />
+      <project id="yodel-backend" values="Project,Project" collectionTime="1460574673577" />
+      <project id="push-app" values="Project,Project" collectionTime="1460821810208" />
+      <project id="AWD_Lab06" values="Project,Project" collectionTime="1449520804356" />
+      <project id="scrum-board" values="Project,Project" collectionTime="1460622952098" />
+      <project id="smartspace" values="Project,Project" collectionTime="1460822001371" />
+      <project id="websocket-stomp-springMVC" values="Project,Project" collectionTime="1458993114359" />
+      <project id="SmartSpaceCore" values="Project,Project" collectionTime="1457101877384" />
+      <project id="push-server" values="Project,Project" collectionTime="1460821571670" />
+      <project id="push-notifications-frontend" values="Project,Project" collectionTime="1460971351744" />
+      <project id="yodel-frontend" values="Project,Project,Directory" collectionTime="1460646797056" />
+    </group>
+    <group name="Git">
+      <project id="FinkiAskWeb" values="config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.warn.about.detached.enabled,data.remotes.in.project.1,config.push.autoupdate.disabled,data.remote.branches.count.2+,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.ssh.enabled,config.push.update.all.roots.enabled,config.save.policy.STASH,data.local.branches.count.2+,config.warn.about.crlf.enabled" collectionTime="1452994814093" />
+      <project id="SmartSpacePlatform" values="config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.force.push.enabled,config.save.policy.STASH,config.warn.about.crlf.enabled,config.ssh.enabled,config.push.update.all.roots.enabled" collectionTime="1457278703183" />
+      <project id="SmartSpaceAdmin" values="config.save.policy.STASH,config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,config.ssh.enabled,config.repo.sync.NOT_DECIDED,config.force.push.enabled,config.push.update.all.roots.enabled,data.remotes.in.project.1,config.warn.about.detached.enabled,data.local.branches.count.2+,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,data.remote.branches.count.2+" collectionTime="1457278467046" />
+      <project id="websocket-demo-web" values="data.remote.branches.count.1,config.save.policy.STASH,config.push.autoupdate.disabled,config.ssh.enabled,config.cherry-pick.autocommit.disabled,config.push.update.all.roots.enabled,data.remotes.in.project.1,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.force.push.enabled,data.local.branches.count.1" collectionTime="1452220203111" />
+      <project id="smartspace-time-frontend" values="data.remotes.in.project.1,config.force.push.enabled,config.warn.about.detached.enabled,data.local.branches.count.2+,data.local.branches.count.2+,data.remote.branches.count.2+,data.remote.branches.count.2+,config.warn.about.crlf.enabled,data.remotes.in.project.1,data.remote.branches.count.5+,data.remotes.in.project.1,config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,data.remotes.in.project.1,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,data.remote.branches.count.2+,config.update.type.BRANCH_DEFAULT,data.local.branches.count.2+,data.local.branches.count.2+,config.ssh.enabled,config.push.update.all.roots.enabled,data.remote.branches.count.2+,data.local.branches.count.2+,data.remotes.in.project.1" collectionTime="1460992233475" />
+      <project id="ask" values="config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,config.force.push.enabled,data.remotes.in.project.1,config.save.policy.STASH,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,data.remote.branches.count.2+,config.ssh.enabled,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,config.warn.about.detached.enabled,data.local.branches.count.1" collectionTime="1454452088576" />
+      <project id="manager-app" values="config.save.policy.STASH,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.push.autoupdate.disabled,config.warn.about.detached.enabled,data.local.branches.count.1,data.remote.branches.count.1,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.force.push.enabled,config.warn.about.crlf.enabled,data.remotes.in.project.1" collectionTime="1460821765152" />
+      <project id="angular-starter" values="config.force.push.enabled,config.warn.about.detached.enabled,config.ssh.enabled,config.push.autoupdate.disabled,config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH" collectionTime="1458504512621" />
+      <project id="finki-ask-frontend" values="config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,data.local.branches.count.1,config.save.policy.STASH,config.ssh.enabled,config.warn.about.detached.enabled,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.force.push.enabled,data.remote.branches.count.1,data.remotes.in.project.1" collectionTime="1452994823231" />
+      <project id="spring-mvc-starter" values="config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,config.force.push.enabled,config.save.policy.STASH,config.warn.about.detached.enabled,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled" collectionTime="1456088491132" />
+      <project id="push-notifications-service" values="config.push.autoupdate.disabled,data.remote.branches.count.1,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,data.local.branches.count.1,data.remotes.in.project.1,config.save.policy.STASH,config.warn.about.detached.enabled,config.ssh.enabled,config.force.push.enabled" collectionTime="1460971312466" />
+      <project id="yodel-backend" values="data.local.branches.count.2+,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,data.remotes.in.project.1,config.warn.about.detached.enabled,config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,config.ssh.enabled,config.update.type.BRANCH_DEFAULT,data.remote.branches.count.15+,config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.save.policy.STASH" collectionTime="1460574673575" />
+      <project id="push-app" values="config.push.update.all.roots.enabled,config.force.push.enabled,config.cherry-pick.autocommit.disabled,data.local.branches.count.1,config.repo.sync.NOT_DECIDED,data.remote.branches.count.1,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.ssh.enabled,data.remotes.in.project.1,config.warn.about.crlf.enabled,config.warn.about.detached.enabled,config.push.autoupdate.disabled" collectionTime="1460821810207" />
+      <project id="sass" values="config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,config.save.policy.STASH,config.force.push.enabled,config.push.autoupdate.disabled,config.ssh.enabled,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.warn.about.crlf.enabled" collectionTime="1450890360968" />
+      <project id="scrum-board" values="config.cherry-pick.autocommit.disabled,config.force.push.enabled,data.local.branches.count.2+,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,data.remote.branches.count.1,data.remotes.in.project.1,config.ssh.enabled,config.warn.about.crlf.enabled,config.save.policy.STASH,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT" collectionTime="1460622951795" />
+      <project id="smartspace" values="data.remotes.in.project.1,config.push.autoupdate.disabled,data.local.branches.count.2+,data.remotes.in.project.1,config.force.push.enabled,config.warn.about.detached.enabled,config.save.policy.STASH,data.remotes.in.project.1,config.cherry-pick.autocommit.disabled,data.remotes.in.project.1,data.local.branches.count.2+,data.remote.branches.count.2+,data.remote.branches.count.2+,config.push.update.all.roots.enabled,data.local.branches.count.2+,data.local.branches.count.2+,data.remote.branches.count.2+,data.remote.branches.count.5+,config.update.type.BRANCH_DEFAULT,data.remote.branches.count.5+,data.local.branches.count.2+,config.ssh.enabled,data.remotes.in.project.1,config.repo.sync.DONT_SYNC,data.remote.branches.count.2+,data.remotes.in.project.1,data.local.branches.count.2+,config.warn.about.crlf.enabled" collectionTime="1460822001371" />
+      <project id="websocket-stomp-springMVC" values="config.push.autoupdate.disabled,data.remote.branches.count.1,config.warn.about.crlf.enabled,data.local.branches.count.1,config.warn.about.detached.enabled,config.ssh.enabled,config.save.policy.STASH,config.push.update.all.roots.enabled,data.remotes.in.project.1,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,config.force.push.enabled,config.cherry-pick.autocommit.disabled" collectionTime="1458993114004" />
+      <project id="SmartSpaceCore" values="config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.force.push.enabled,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled" collectionTime="1457101877382" />
+      <project id="push-server" values="config.save.policy.STASH,config.repo.sync.NOT_DECIDED,config.warn.about.detached.enabled,config.ssh.enabled,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,config.force.push.enabled" collectionTime="1460821571668" />
+      <project id="push-notifications-frontend" values="config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.save.policy.STASH,config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,data.remotes.in.project.1,config.warn.about.crlf.enabled,data.remote.branches.count.1,config.warn.about.detached.enabled,data.local.branches.count.1" collectionTime="1460971351741" />
+      <project id="yodel-frontend" values="config.cherry-pick.autocommit.disabled,config.save.policy.STASH,data.remotes.in.project.1,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,data.remote.branches.count.30+,data.local.branches.count.2+,config.force.push.enabled,config.push.update.all.roots.enabled,config.ssh.enabled" collectionTime="1460646796880" />
+    </group>
+    <group name="libraries">
+      <project id="websocket-stomp-springMVC" values="BeanValidation,spring-boot,WebSocket,spring,spring-mvc,EJB" collectionTime="1458993113977" />
+      <project id="SmartSpaceAdmin" values="TransactionJavaee,spring-security,spring,spring-mvc,spring-data-jpa,hibernate" collectionTime="1457278467033" />
+      <project id="push-app" values="BeanValidation,TransactionJavaee,hibernate,spring-data-jpa,spring,spring-mvc" collectionTime="1460821810207" />
+      <project id="push-notifications-service" values="CDI,EJB,spring-mvc,spring,spring-data-jpa,TransactionJavaee,spring-boot,hibernate,BeanValidation,WebSocket,spring-security" collectionTime="1460971312450" />
+      <project id="spring-mvc-starter" values="TransactionJavaee,spring,BeanValidation,spring-boot,spring-mvc,spring-data-jpa,hibernate" collectionTime="1456088491130" />
+      <project id="smartspace" values="spring-data-jpa,spring,spring-security,TransactionJavaee,spring-mvc,hibernate,jsf,jsf-primefaces" collectionTime="1460822001370" />
+      <project id="yodel-backend" values="TransactionJavaee,spring-mvc,thymeleaf,hibernate,BeanValidation,spring-security,spring,CDI" collectionTime="1460574673573" />
+      <project id="yodel-frontend" values="javaScript" collectionTime="1460646796868" />
+      <project id="push-server" values="spring-mvc,spring" collectionTime="1460821571667" />
+      <project id="ask" values="spring-data-jpa,BeanValidation,hibernate,TransactionJavaee,spring,spring-mvc" collectionTime="1454452088563" />
+      <project id="scrum-board" values="spring-security,BeanValidation,EJB,CDI,spring,spring-data-jpa,TransactionJavaee,WebSocket,hibernate,spring-mvc,spring-boot" collectionTime="1460622951780" />
+    </group>
+    <group name="language-level">
+      <project id="FinkiAskWeb" values="JDK_1_6" collectionTime="1452994814093" />
+      <project id="SmartSpacePlatform" values="JDK_1_5,JDK_1_8" collectionTime="1457278703183" />
+      <project id="SmartSpaceAdmin" values="JDK_1_8,JDK_1_7" collectionTime="1457278467041" />
+      <project id="websocket-demo-web" values="JDK_1_6" collectionTime="1452220203111" />
+      <project id="smartspace-time-frontend" values="JDK_1_6" collectionTime="1460992233354" />
+      <project id="ask" values="JDK_1_7,JDK_1_8" collectionTime="1454452088571" />
+      <project id="manager-app" values="JDK_1_6" collectionTime="1460821765152" />
+      <project id="angular-starter" values="JDK_1_8,JDK_1_5" collectionTime="1458504512619" />
+      <project id="finki-ask-frontend" values="JDK_1_3" collectionTime="1452994823231" />
+      <project id="spring-mvc-starter" values="JDK_1_8,JDK_1_7" collectionTime="1456088491132" />
+      <project id="push-notifications-service" values="JDK_1_8" collectionTime="1460971312461" />
+      <project id="yodel-backend" values="JDK_1_8,JDK_1_7" collectionTime="1460574673574" />
+      <project id="push-app" values="JDK_1_7,JDK_1_8" collectionTime="1460821810207" />
+      <project id="AWD_Lab06" values="JDK_1_6" collectionTime="1449520804110" />
+      <project id="sass" values="JDK_1_6" collectionTime="1450890360966" />
+      <project id="scrum-board" values="JDK_1_8" collectionTime="1460622951789" />
+      <project id="smartspace" values="JDK_1_7" collectionTime="1460822001371" />
+      <project id="websocket-stomp-springMVC" values="JDK_1_8,JDK_1_6" collectionTime="1458993113995" />
+      <project id="SmartSpaceCore" values="JDK_1_8" collectionTime="1457101877382" />
+      <project id="push-server" values="JDK_1_8" collectionTime="1460821571668" />
+      <project id="push-notifications-frontend" values="JDK_1_6" collectionTime="1460971351741" />
+      <project id="yodel-frontend" values="JDK_1_6" collectionTime="1460646796875" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="CreateFile.CreateFileAction" count="7" />
+      <entry feature="CreateFile.CreateSpringConfigAction" count="1" />
+      <entry feature="JSDebugConfig.Debug.browser-default.preferredBrowser-null.no_mappings" count="8" />
+      <entry feature="JSDebugConfig.Run.browser-default.preferredBrowser-null.no_mappings" count="14" />
+      <entry feature="OpenInBrowser.Chrome" count="29" />
+      <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Debug" count="19" />
+      <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Run" count="474" />
+      <entry feature="execute.Application.Debug" count="4" />
+      <entry feature="execute.Application.Run" count="133" />
+      <entry feature="execute.JBossConfiguration.Debug" count="19" />
+      <entry feature="execute.JBossConfiguration.Run" count="49" />
+      <entry feature="execute.JUnit.Run" count="23" />
+      <entry feature="execute.JavascriptDebugType.Debug" count="8" />
+      <entry feature="execute.JavascriptDebugType.Run" count="14" />
+      <entry feature="execute.SpringBootApplicationConfigurationType.Debug" count="15" />
+      <entry feature="execute.SpringBootApplicationConfigurationType.Run" count="120" />
+      <entry feature="execute.js.build_tools.gulp.Run" count="79" />
+      <entry feature="git.branch.checkout.local" count="1" />
+      <entry feature="git.branch.checkout.remote" count="1" />
+      <entry feature="ide.help.ideaInterface.editor" count="5" />
+      <entry feature="ide.settings.Appearance" count="3" />
+      <entry feature="ide.settings.Application&#10;Servers" count="1" />
+      <entry feature="ide.settings.Code_Style" count="1" />
+      <entry feature="ide.settings.Colors_&amp;_Fonts" count="2" />
+      <entry feature="ide.settings.Debugger" count="2" />
+      <entry feature="ide.settings.ESLint" count="1" />
+      <entry feature="ide.settings.Font" count="2" />
+      <entry feature="ide.settings.JBoss_Server" count="1" />
+      <entry feature="ide.settings.JSHint" count="2" />
+      <entry feature="ide.settings.JavaScript" count="1" />
+      <entry feature="ide.settings.Java_Compiler" count="4" />
+      <entry feature="ide.settings.Keymap" count="3" />
+      <entry feature="ide.settings.Live_Templates" count="3" />
+      <entry feature="ide.settings.Plugins" count="2" />
+      <entry feature="ide.settings.Project_Structure" count="50" />
+      <entry feature="ide.settings.SonarQube" count="2" />
+      <entry feature="ide.settings.Tomcat_Server" count="1" />
+      <entry feature="ide.settings.TypeScript" count="1" />
+      <entry feature="ide.settings.Version_Control" count="1" />
+      <entry feature="ideaapp.started" count="118" />
+      <entry feature="spring.SpringConfigurationCheck.FileCount.java" count="37" />
+      <entry feature="spring.SpringConfigurationCheck.FileCount.xml" count="36" />
+      <entry feature="spring.SpringFacetInspection.AddFacetFix" count="5" />
+      <entry feature="spring.SpringFacetInspection.ConfigureFileSetFix" count="19" />
+      <entry feature="terminal.linux" count="65" />
+      <entry feature="tips.of.the.day.next" count="3" />
+      <entry feature="uml.ShowDiagram.SPRING.popup" count="1" />
+      <entry feature="uml.ShowDiagram.SpringLocalModels" count="1" />
+      <entry feature="uml.ShowDiagram.SpringLocalModels.popup" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.Configure" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.Configure.Import" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.ImportProject" count="5" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenProject" count="3" />
+    </counts>
+  </component>
+</application>
