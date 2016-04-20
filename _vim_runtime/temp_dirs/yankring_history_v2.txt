@@ -1,0 +1,100 @@
+: 1460917784:0;sudo vim .zsh_history,V
+: 1460917775:0;cat .zsh_history,V
+,V
+#,v
+5,v
+css,views,v
+,,v
+ ddasd asd ,v
+bojan trajkovski,v
+m,v
+.vim_runtime/vimrcs/filetypes.vim,v
+source ~/.vim_runtime/vimrcs/plugins_config.vim,V
+source ~/.vim_runtime/vimrcs/filetypes.vim,V
+bojan ,V
+ asdasdas,V
+ dasd asd asd ,V
+ dasdasd,V
+ dasdasdA,V
+ asdas,V
+ d asd asd asd as,V
+ d asd asd a,V
+ asd asd asd as,V
+das ,V
+d asd asd asd asd asd,V
+ dasdas das (dasdasdas),v
+ d,v
+sd asd asd as,v
+d asdas dasd as,v
+asdas,v
+3,v
+alias v="ls -l",V
+`,v
+  "keywords": [],V
+  "devDependencies": {},,V
+  "dependencies": {,V
+/mnt/share/Torrents/South Park - S19E05 - Safe Space.mp4,V
+/mnt/share/Torrents/South.Park.S19E05.HDTV.x264-KILLERS.mp4,V
+filebot -script fn:amc --output "/mnt/share/Torrents" --action rename --conflict skip -non-strict --log-file amc.log --def excludeList=.excludes unsorted=y music=y --def xbmc=192.168.1.145 --def clean=y --def subtitles=en "ut_dir=$TORRENT_PATH/$TORRENT_NAME" "ut_kind=multi" "ut_title=$TORRENT_NAME",v
+filebot -script fn:amc --output "/mnt/share/Torrents" --action duplicate --conflict skip -non-strict --log-file amc.log --def excludeList=.excludes unsorted=y music=y --def xbmc=192.168.1.145 --def clean=y --def subtitles=en "ut_dir=$TORRENT_PATH/$TORRENT_NAME" "ut_kind=multi" "ut_title=$TORRENT_NAME",V
+1",v
+nameserver 192.168.1.104,V
+    "android": "4.1.1",V
+/www,V
+“,v
+bin,v
+/,v
+42,v
+.,v
+381,v
+idea-IU-143,v
+intellij-15/,v
+/home/bojan/,v
+381.42/bin,v
+143,v
+-,v
+IU,v
+idea,v
+15,v
+intellij,v
+bojan,v
+home,v
+monospace ,v
+~,v
+pbox,v
+o,v
+r,v
+G,v
+D,v
+0,v
+x,v
+local_directory home_directory username host";,v
+#return 0;,V
+done,V
+for FILE in `find $1 -maxdepth 1 -type f -printf "%f "`; do    echo "copying $FILE"    #rcp $FILE $3@$4:donefor FILE in `find $2 -maxdepth 1 -type f -printf "%f "`; do    echo "copying $FILE"    #rcp $FILE $3@$4:,V
+fi,V
+fiif [ ! -d $2 ]; then    echo "$2 is not a directory";    return 1;,V
+if [ ! -d $1 ]; then    echo "$1 is not a directory";    return 1;,V
+[,v
+ ,v
+],v
+        ,V
+    echo "copying $FILE",V
+    rcp $FILE $3@$4:,V
+},v
+e,v
+l,v
+i,v
+f,v
+rcp $1 $2@$3:,V
+if [ ! -d $1 ]; then    echo "$1 is not a file";    return 1;,V
+if [ ! -d $1 ]; then    echo "$1 is not a file";    return 1;fi,V
+  10.10.5.95:,v
+rcp $1 $2@$3:,v
+#!/bin/bashif [ ! $# -eq 1 ]; then    echo "Usage: $0 file";    return 1;fiif [ ! -f $1 ]; then    echo "$1 is not a file";    return 1;fircp $1 mos21:10.10.5.95return 0;,V
+E,v
+j,v
+p,v
+\,v
+Intellij IDEA,v
+I,v
