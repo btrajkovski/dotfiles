@@ -1,0 +1,8 @@
+[user]
+	name = btrajkovski
+	email = btrajkovski.08@gmail.com
+[http]
+	postBuffer = 524288000
+[core]
+	compression = 0
+	autocrlf = input
