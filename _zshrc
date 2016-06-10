@@ -86,3 +86,5 @@ source $ZSH/oh-my-zsh.sh
 # Custom aliases
 source $HOME/.env_aliases
 
+export ANDROID_HOME=/home/bojan/Programs/Android/Sdk
+

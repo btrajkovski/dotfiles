@@ -1,7 +1,8 @@
-alias upgrade='sudo apt-get update; sudo apt-get upgrade'
+alias upgrade='sudo apt update && sudo apt upgrade'
 alias cd..="cd .."
 alias cd...="cd ../.."
 alias ..="cd .."
 alias ...="cd ../.."
 alias ....="cd ../../.."
 alias .....="cd ../../../.."
+alias dirs="dirs -v"
