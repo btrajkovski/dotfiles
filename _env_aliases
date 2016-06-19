@@ -1,4 +1,4 @@
-alias upgrade='sudo apt update && sudo apt upgrade'
+alias upgrade="sudo apt update && sudo apt upgrade"
 alias cd..="cd .."
 alias cd...="cd ../.."
 alias ..="cd .."
@@ -6,3 +6,4 @@ alias ...="cd ../.."
 alias ....="cd ../../.."
 alias .....="cd ../../../.."
 alias dirs="dirs -v"
+alias tm="tmux"
