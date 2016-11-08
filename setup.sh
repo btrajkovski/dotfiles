@@ -25,6 +25,7 @@ do
             cp _zshrc ~/.zshrc
             source ~/.zshrc
             chsh -s $(which zsh)
+<<<<<<< HEAD
             exit
 		;;
 		03)
@@ -43,6 +44,12 @@ do
             source ~/.tmux.conf
             exit
         ;;
+=======
+		;;
+		03)
+			sudo ./remove.sh
+		;;
+>>>>>>> 36fac563a04f4b7fb5faa1f7c1c6625aa3bba2b4
 		*)
 			exitstatus=1
 			exit
