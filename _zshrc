@@ -1,5 +1,5 @@
 # Path to your oh-my-zsh installation.
-  export ZSH=/home/bojan/.oh-my-zsh
+  export ZSH=/home/`whoami`/.oh-my-zsh
 
 # Set name of the theme to load.
 # Look in ~/.oh-my-zsh/themes/
@@ -53,7 +53,7 @@ plugins=(git)
 
 # User configuration
 
-  export PATH="/home/bojan/.npm-global/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/home/bojan/Programs/Android/Sdk/tools:/home/bojan/Programs/Android/Sdk/platform-tools:/usr/lib/jvm/java-8-oracle/bin:/usr/lib/jvm/java-8-oracle/db/bin:/usr/lib/jvm/java-8-oracle/jre/bin"
+  export PATH="/home/`whoami`/.npm-global/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/home/`whoami`/Programs/Android/Sdk/tools:/home/`whoami`/Programs/Android/Sdk/platform-tools:/usr/lib/jvm/java-8-oracle/bin:/usr/lib/jvm/java-8-oracle/db/bin:/usr/lib/jvm/java-8-oracle/jre/bin"
 # export MANPATH="/usr/local/man:$MANPATH"
 
 source $ZSH/oh-my-zsh.sh
@@ -84,7 +84,9 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 #
 # Custom aliases
-source $HOME/.env_aliases
+if [[ -f $HOME/.env_aliases ]]; then
+    source $HOME/.env_aliases
+fi
 
-export ANDROID_HOME=/home/bojan/Programs/Android/Sdk
+export ANDROID_HOME=/home/`whoami`/Programs/Android/Sdk
 
