@@ -40,7 +40,6 @@ do
         05)
             sudo apt install -y tmux
             cp _tmux.conf ~/.tmux.conf
-            source ~/.tmux.conf
             exit
         ;;
 		*)
