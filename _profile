@@ -22,4 +22,3 @@ if [ -d "$HOME/bin" ] ; then
 fi
 
 export PATH=~/.npm-global/bin:$PATH
-export ANDROID_HOME=/home/bojan/Programs/Android/Sdk
