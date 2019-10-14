@@ -87,6 +87,3 @@ source $ZSH/oh-my-zsh.sh
 if [[ -f $HOME/.env_aliases ]]; then
     source $HOME/.env_aliases
 fi
-
-export ANDROID_HOME=/home/`whoami`/Programs/Android/Sdk
-
